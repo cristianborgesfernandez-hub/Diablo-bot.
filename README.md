@@ -4,11 +4,11 @@
 <summary><strong>🍒 Cloud</strong> — Shell</summary>
 
 ```bash
-git clone https://github.com/iamDestroy/YukiBot-MD
+git clone https://github.com/cristianborgesfernandez-hub/Diablo-bot.
 ```
 
 ```bash
-cd YukiBot-MD
+cd Diablo-bot.
 ```
 
 ```bash
@@ -36,11 +36,11 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/iamDestroy/YukiBot-MD
+git clone https://github.com/cristianborgesfernandez-hub/Diablo-bot.
 ```
 
 ```bash
-cd YukiBot-MD
+cd Diablo-bot.
 ```
 
 ```bash
@@ -62,7 +62,7 @@ npm start
 <details>
 <summary><strong>🍒 Comandos para tener mas tiempo activo</strong> — el Bot</summary>
 
-> *Ejecutar estos comandos dentro de la carpeta YukiBot-MD*
+> *Ejecutar estos comandos dentro de la carpeta Diablo-bot.*
 ```bash
 termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
 ``` 
@@ -93,13 +93,13 @@ pm2 start index
 ### En caso de detenerse
 > _Si despues que ya instalastes tu bot y termux te salta en blanco, se fue tu internet o reiniciaste tu celular, solo realizaras estos pasos:_
 ```bash
-cd && cd YukiBot-MD && npm start
+cd && cd Diablo-bot. && npm start
 ```
 ---
 
 ### Obtener nuevo inicio de Sessión 
-> *Detén el bot, haz click en el símbolo (ctrl) [default=z] usar la letra "z" + "ENTER" hasta que salga algo verdes similar a: `YukiBot-MD $`*
+> *Detén el bot, haz click en el símbolo (ctrl) [default=z] usar la letra "z" + "ENTER" hasta que salga algo verdes similar a: `Diablo-bot. $`*
  
 ```bash 
-cd && cd YukiBot-MD && rm -rf Sessions/Owner && npm start
+cd && cd Diablo-bot. && rm -rf Sessions/Owner && npm start
 ```
